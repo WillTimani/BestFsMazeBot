@@ -54,9 +54,9 @@ All files contained in this project (other than mathStuff.js and pathCell.js) or
 
 Screenshots showing the progression of the bot as time progresses:
 
-![Breadbot1](https://github.com/WillTimani/BestFsMazeBot/blob/main/Images/Breadbot1.png)
-![Breadbot2](https://github.com/WillTimani/BestFsMazeBot/blob/main/Images/Breadbot2.png)
-![Breadbot3](https://github.com/WillTimani/BestFsMazeBot/blob/main/Images/Breadbot3.png)
-![Breadbot4](https://github.com/WillTimani/BestFsMazeBot/blob/main/Images/Breadbot4.png)
-![FinishMaze](https://github.com/WillTimani/BestFsMazeBot/blob/main/Images/FinishMaze.png)
+![Breadbot1](https://github.com/WillTimani/BreadbotsAdventure/blob/main/Images/Breadbot1.png)
+![Breadbot2](https://github.com/WillTimani/BreadbotsAdventure/blob/main/Images/Breadbot2.png)
+![Breadbot3](https://github.com/WillTimani/BreadbotsAdventure/blob/main/Images/Breadbot3.png)
+![Breadbot4](https://github.com/WillTimani/BreadbotsAdventure/blob/main/Images/Breadbot4.png)
+![FinishMaze](https://github.com/WillTimani/BreadbotsAdventure/blob/main/Images/FinishMaze.png)
 
