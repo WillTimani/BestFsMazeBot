@@ -28,7 +28,9 @@ Setting up a local server may be required to run the program as intended. In tes
 
 python3 -m http.server 1234
 
-Then navigating to localhost:1234 in the Google Chrome browser and clicking on the html file. There may be other ways to successfully run the program, however this has not been investigated at this time.  
+Then navigating to localhost:1234 in the Google Chrome or Mozilla Firefox browser and clicking on the html file. There may be other ways to successfully run the program, however this has not been investigated at this time.  
+
+If this setup is not followed, the maze may not be properly loaded which will cause the bot to not function as intended. 
 
 Sample Invocation:
 The program is started and the bot will start travesing the maze from the top left corner. The bot will continue to run its pathing algorithm until it has reached the bottom left corner. The step count will also change as the bot takes each step through the maze. 
