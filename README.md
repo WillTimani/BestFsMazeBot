@@ -8,17 +8,17 @@ This is a javascript program, with html, LISP and P5 incorporation. The purpose 
 
 As the bot proceeds through the maze, it uses the heuristic value (based on the manhattan distance to the end cell) to determine which cell to navigate to. When encountered with a tie, the bot will proceed to a cell on the same row first. The program keeps track of cells that the bot has discovered, but not visited. If one of these cells has a lower heuristic value than the next cell the bot wants to traverse to, it will backtrack to the previous cell. 
 
-Contents:
-assets
-pix
-cs-sketch.js
-GridMaze.jpg
-index-js-p5-jathp-5.html
-Jathp.js
-mathStuff.js
-p5.js
-pathCell.js
-README.txt
+Contents:  
+assets  
+pix  
+cs-sketch.js  
+GridMaze.jpg  
+index-js-p5-jathp-5.html  
+Jathp.js  
+mathStuff.js  
+p5.js  
+pathCell.js  
+README.txt  
 
 External Requirements:
 This program was tested using a local python3 server on linux and Google Chrome. There is a high chance that the program will not run as intended on any browser without establishing a local server to be able to load the GridMaze.jpg file. 
@@ -36,15 +36,15 @@ Sample Invocation:
 The program is started and the bot will start travesing the maze from the top left corner. The bot will continue to run its pathing algorithm until it has reached the bottom left corner. The step count will also change as the bot takes each step through the maze. 
 
 Features:
-- Bot that is displayed as a yellow dot and moves left, right, up and down one cell at a time
-- Wall detection that prevents the bot from moving through maze walls 
-- Junction detection and decisions based on a heuristic function
-- Backtracking to a previously discovered cell if it has a lower heuristic value than the next cell in the bots path
-- Best path from the start to the bot/end displayed as orange dots
-- Previously visited cells displayed as white dots
-- Previously discovered, but not traversed to cells displayed as blue dots
-- Target cell for backtracking displayed as a green dot
-- Step count that increments after each bot takes a step (forward or back) 
+- Bot that is displayed as a yellow dot and moves left, right, up and down one cell at a time  
+- Wall detection that prevents the bot from moving through maze walls   
+- Junction detection and decisions based on a heuristic function  
+- Backtracking to a previously discovered cell if it has a lower heuristic value than the next cell in the bots path  
+- Best path from the start to the bot/end displayed as orange dots  
+- Previously visited cells displayed as white dots  
+- Previously discovered, but not traversed to cells displayed as blue dots  
+- Target cell for backtracking displayed as a green dot  
+- Step count that increments after each bot takes a step (forward or back)   
 
 Bugs:
 - No currently known bugs 
