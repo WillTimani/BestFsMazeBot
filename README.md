@@ -52,4 +52,11 @@ Bugs:
 Third Party Material:
 All files contained in this project (other than mathStuff.js and pathCell.js) originated from Charles Siska. index-js-p5-jathp-5.html and cs-sketch.js have been modified heavily from the originally provided files. All other files were purely provided by Charles.   
 
+Screenshots showing the progression of the bot as time progresses:
+
+![Breadbot1](https://github.com/WillTimani/BestFsMazeBot/blob/master/Images/Breadbot1.png)
+![Breadbot2](https://github.com/WillTimani/BestFsMazeBot/blob/master/Images/Breadbot2.png)
+![Breadbot3](https://github.com/WillTimani/BestFsMazeBot/blob/master/Images/Breadbot3.png)
+![Breadbot4](https://github.com/WillTimani/BestFsMazeBot/blob/master/Images/Breadbot4.png)
+![FinishMaze](https://github.com/WillTimani/BestFsMazeBot/blob/master/Images/FinishMaze.png)
 
